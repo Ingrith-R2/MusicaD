@@ -1,0 +1,54 @@
+
+.fondob{
+   background-image: url(pattern-background-desktop.svg);
+   background-color: rgb(210, 210, 244);
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+.ilus{
+    background-color: white;
+    position:static;
+    margin: 1rem auto;
+    border-style: double;
+    border-radius: 0.8rem;
+    display: table;
+}
+.order{
+    text-align: center;
+}
+.parf{
+    text-align: center;
+}
+.icon{
+    background-image: url(icon-music.svg);
+    background-repeat: no-repeat;
+    width: 300px;
+    font-size: 1.5rem;
+    position:relative;
+    border-radius: 0.7rem;
+    margin: 3rem auto;
+    border-style:groove;
+    display: table;
+    text-align: right;
+    background-color: rgba(237, 237, 251, 0.911);
+}
+.box{
+    color: white;
+    width: 300px;
+    height: 30px;
+    padding: 10px;
+    text-align: center;
+    font-size:20px;
+    position:relative;
+    border-radius: 0.5rem;
+    margin: 3rem auto;
+    border-style:groove;
+    display: table;
+    background-color: rgba(53, 53, 244, 0.911);
+}
+.Change{
+text-align: right;
+}
+.cancel{
+    text-align: center;
+}
